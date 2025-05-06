@@ -1,0 +1,13 @@
+.botao{
+    width: 100px;
+    height: 100px;
+    margin-top: 1%;
+    font-size: 50px;
+}
+#layout{
+    width: 315px;
+    height: 315px;
+    background-color: grey;
+    text-align: center;
+    margin: auto;
+}
